@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:25/11/2026
+## Reference Number:26018043
+## Name:Nivash I
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,17 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+Create a direct farmer-to-consumer online platform that eliminates middlemen, increases farmers' income, reduces consumer prices, ensures fair pricing, and provides easy mobile access with real-time price updates and direct delivery.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Develop a farmer-to-consumer platform using HTML, CSS, JavaScript, Python Django, and MySQL. Farmers register and upload products with prices, while consumers browse, order, and receive products directly from farmers through a simple website or mobile application.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+The platform is affordable and practical. Challenges like internet access, delivery delays, and trust can be solved through simple technology, reliable delivery, and secure payments.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+The platform increases farmers' income, provides affordable fresh products to consumers, reduces food waste, and supports social, economic, and environmental development.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1. e-NAM: Connects farmers with buyers and supports fair pricing.
+2. FAO: Provides research on digital agriculture and improving farmers' income.
